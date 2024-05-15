@@ -4,7 +4,7 @@
 <div style="display:flex;">
     <div style="flex:2;">
         <ul>
-        <h2>Report Overview</h2>
+        <h2>Report Overview  📊</h2>
         <h3>Main Analysis Report</h3>
             <li><a href="Bellabeat-Case-Study-Bigquery-Google-Looker.ipynb">Bellabeat Case Study Analysis</a></li>
         <h4>Supporting Documents</h4>
